@@ -1,0 +1,5 @@
+[
+  {"source": "crm", "record": {"account_id": "CRM-101", "supplier_id": "SUP-001", "revision": 1, "display_name": "Juniper Tools", "billing_city": "Denver", "segment": "Equipment"}},
+  {"source": "registry", "record": {"registration_id": "REG-501", "supplier_id": "SUP-001", "revision": 1, "legal_name": "Juniper Workshop Supply", "registered_city": "Boulder", "classification": null}},
+  {"source": "partner", "record": {"vendor_code": "PARTNER-009", "supplier_id": "SUP-001", "revision": 1, "trading_name": "Juniper Supply", "location": "Denver", "product_group": "Tools"}}
+]
