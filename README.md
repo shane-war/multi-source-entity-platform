@@ -60,3 +60,7 @@ Adapters normalize distinct source contracts; authority and fallback preserve pr
 This is a newly authored portfolio example inspired by multi-source integration and attribute-modeling experience. It contains no copied employer source, original commit history, customer records, licensed vendor extracts, or internal infrastructure configuration. It does not reproduce a former employer's platform or claim sole authorship of a team system.
 
 The demonstration stores the latest source payload plus a digest audit, not full historical payload versions. It has no production connectors, authentication, UI, or scale benchmark. See [design notes](docs/design.md) for extension points and [verification](docs/verification.md) for checks actually performed.
+
+## License
+
+[MIT License](LICENSE) — Copyright (c) 2026 Shane Warnakula.
